@@ -2,7 +2,7 @@
   "name": "webpack-boilerplate",
   "version": "1.0.0",
   "license": "MIT",
-  "author": "codeninja",
+  "author": "superdev947",
   "scripts": {
     "start": "webpack serve --mode development --open",
     "build": "webpack --mode production",
